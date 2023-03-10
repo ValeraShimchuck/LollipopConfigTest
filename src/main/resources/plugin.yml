@@ -1,0 +1,6 @@
+name: LollipopConfigTest
+version: '${version}'
+main: net.lollipopmc.configtest.ConfigTestPlugin
+depend:
+  - LollipopLibs
+api-version: 1.19
